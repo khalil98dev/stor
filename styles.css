@@ -1,0 +1,41 @@
+body {
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #0000
+}
+.khalil {
+
+border:solid;
+background-image: url(tech.jpg);
+background-repeat: no-repeat;
+background-size:100%;
+margin-right:30% ;
+margin-left: 30%;
+text-align: center;
+
+}
+h1 { 
+color: #800080;
+text-align: center;
+border: 5px solid red;
+margin-right: 35%;
+margin-top: 1%;
+margin-left: 35%
+ }
+.l {
+text-align: center;
+ padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  border:outset;
+  margin-right:30%;
+  margin-left:40% ;
+  background-image: url(bc.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+
+
+}
+
